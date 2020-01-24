@@ -1,0 +1,51 @@
+@charset "UTF-8";
+body{
+  font-family: 'Roboto', sans-serif;
+}
+.img-logo{
+    max-height: 1.5em;
+}
+.cupones p.card-text {
+  font-size: 0.8em;
+}
+.precio-old{
+  font-size: 1em;
+}
+.precio-new{
+  font-size: 1.25em;
+  font-weight: 500;
+}
+.titulo-form{
+  width: 100%;
+  font-size: 1.25em;
+}
+.ancho-col{
+  min-width: 17em;
+}
+.boton-enviar{
+  width: 100%;
+}
+.imagen{
+  height: 180px;
+  width: 100%;
+  background-size: cover;
+  background-position: center center;
+}
+.cupon1{
+  background-image: url('../img/cupon-1.jpg');
+}
+.cupon2{
+  background-image: url('../img/cupon-2.jpg');
+}
+.cupon3{
+  background-image: url('../img/cupon-3.jpg');
+}
+.cupon4{
+  background-image: url('../img/cupon-4.jpg');
+}
+.cupon5{
+  background-image: url('../img/cupon-5.jpg');
+}
+.cupon6{
+  background-image: url('../img/cupon-6.jpg');
+}
